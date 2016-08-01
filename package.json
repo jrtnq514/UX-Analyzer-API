@@ -1,0 +1,19 @@
+{
+  "name": "ux_analyzer_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "comb": "^1.0.1",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "htmlparser2": "^3.9.1",
+    "node-libcurl": "^1.0.0"
+  }
+}
